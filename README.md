@@ -7,10 +7,9 @@
 
 - 💬 Ask me about **MERN stack!**
 
-- 📫 How to reach me **chauhanvishal562@gmail.com**
+- 📫 How to reach me **vikashvashistha.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XlEhnRDDQXFeNjbKKBPeKFutt72szEq8/view?usp=sharing](https://drive.google.com/file/d/1XlEhnRDDQXFeNjbKKBPeKFutt72szEq8/view?usp=sharing)
-  [https://drive.google.com/file/d/1RuyBkcynNapqDuhdLQL1XTDORKSx7Ol2/view?usp=sharing](https://drive.google.com/file/d/1RuyBkcynNapqDuhdLQL1XTDORKSx7Ol2/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17e_uKPhWZDGyJoQayBWXyL3eNZUYJ1ex/view?usp=sharing](https://drive.google.com/file/d/17e_uKPhWZDGyJoQayBWXyL3eNZUYJ1ex/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Batman fan.**
 
