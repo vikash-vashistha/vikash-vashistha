@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN stack!**
 
-- 📫 [How to reach me](**vikashvashistha.dev@gmail.com**)
+- 📫 How to reach me **vikashvashistha.dev@gmail.com**
 
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1hmsQjC0xta8OHl0DZXBEjNSlTBlskIiv/view?usp=sharing)
 
