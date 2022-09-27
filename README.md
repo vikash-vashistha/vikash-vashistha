@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash Vashistha</h1>
 <h3 align="center"> A passionate full stack developer from India. Right now I have finished my full stack web development cousre from Masai School, Bangalore. I love to learn and explore new arenas. I am highly-proficient in MERN stack. I am eager to learn and ready to contribute to the development of an organization and also open to work as a freelancer.</h3>
 
-- 🔭 I’m currently working on **React Projects.**
+- 🔭 I’m currently working on **MERN Projects.**
 
 - 👯 I’m looking to collaborate on **projects based on MERN stack.**
 
