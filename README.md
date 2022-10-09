@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Vashistha</h1>
-<h3 align="center"> A passionate full stack developer from India. Right now I have finished my full stack web development cousre from Masai School, Bangalore. I love to learn and explore new arenas. I am highly-proficient in MERN stack. I am eager to learn and ready to contribute to the development of an organization and also open to work as a freelancer.</h3>
+<h3 align="center"> A passionate full-stack web developer from India Right now, I have finished my full stack web development course at Masai School in Bangalore and am working as an instructional associate here. I love to learn and explore new arenas. I am highly proficient in MERN Stack. I am eager to learn and ready to contribute to the development of an organization. I am also open to working as a freelancer.</h3>
 
 - 🔭 I’m currently working on **MERN Projects.**
 
@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **vikashvashistha.dev@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1fan9sUMXl0yR_wauBtgJ3vLUBf9V8ZUa/view?usp=sharing)
+- 📒 [Know about my experiences](https://drive.google.com/file/d/1fan9sUMXl0yR_wauBtgJ3vLUBf9V8ZUa/view?usp=sharing)
 
-- 📄 [Portfolio](https://portfolio-iota-gray.vercel.app/)
+- 🗂️ [Portfolio](https://portfolio-iota-gray.vercel.app/)
 
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash-vashistha&theme=radical)
 
