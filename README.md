@@ -32,7 +32,7 @@
 
 - 🗂️ [Portfolio](https://portfolio-iota-gray.vercel.app/)
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash-vashistha&theme=radical)
+<!-- - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash-vashistha&theme=radical) -->
 
 - ⚡ Fun fact **I am a Batman fan.**
 
@@ -156,7 +156,7 @@
 <h2>GitHub Stats</h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-vashistha&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="vikash-vashistha" height="200" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-vashistha&theme=radical" alt="vikash-vashistha" height="200" />
     <br/> <br/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-vashistha&theme=dark&border=DDDDDD&stroke=DDDDDD&ring=F1E05A" alt="vikash-vashistha" height="200" /> 
     <br/> <br/>
