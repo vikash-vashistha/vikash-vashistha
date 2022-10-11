@@ -105,22 +105,22 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<!-- <h2>Projects</h2>
+<h2>Projects</h2>
 <p align="left">
-    <a href="https://github.com/pragati-tripathi05/Unit-2-Group-Project/tree/master/Koovs.com" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Koovs.com Clone&color=3626ce&label=" alt="Koovs.com" />
+    <a href="https://github.com/vikash-vashistha/CloneUrbanOutfitters" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message= CloneUrbanOutfitters&color=3626ce&label=" alt=" CloneUrbanOutfitters" />
     </a>
-    <a href="https://github.com/pragati-tripathi05/Unit-3-Group-Project-yoox.com-/tree/master/%23Unit%203-%20Group%20Project%20(yoox.com)" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Yoox.com&color=c31068&label=" alt="Yoox.com" />
+    <a href="https://github.com/vikash-vashistha/cloneMyFitnessPal" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=cloneMyFitnessPal&color=c31068&label=" alt="cloneMyFitnessPal" />
     </a>
-    <a href="https://github.com/pragati-tripathi05/cynical-frogs-1119/tree/main/getharvestproject" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GetHarvest.com&color=f44d27&label=" alt="GetHarvest" />
+    <a href="https://github.com/vikash-vashistha/CloneHealthMug" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CloneHealthMug&color=f44d27&label=" alt="CloneHealthMug" />
     </a>
-    <a href="https://github.com/MohitKawle/sedate-toys-1304" target="blank">
+    <!-- <a href="https://github.com/MohitKawle/sedate-toys-1304" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tripadvisor Clone&color=1ac787&label=" alt="Tripadvisor" />
-    </a>
+    </a> -->
 </p>
-<br/> -->
+<br/>
 
 
 
