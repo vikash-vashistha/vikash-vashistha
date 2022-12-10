@@ -28,9 +28,9 @@
 
 - 📫 How to reach me **vikashvashistha.dev@gmail.com**
 
-- 📒 [Know about my experiences](https://drive.google.com/file/d/1fan9sUMXl0yR_wauBtgJ3vLUBf9V8ZUa/view?usp=sharing)
+- 📒 [Know about my experiences](https://drive.google.com/file/d/113yws_1wRuYKFRgNdFlbh5yzw25tXBBr/view?usp=share_link)
 
-- 🗂️ [Portfolio](https://portfolio-iota-gray.vercel.app/)
+- 🗂️ [Portfolio](https://vikash-vashistha.github.io/)
 
 <!-- - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash-vashistha&theme=radical) -->
 
