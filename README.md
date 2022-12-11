@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **vikashvashistha.dev@gmail.com**
 
-- 📒 [Know about my experiences](https://drive.google.com/file/d/10v-NKg8emajR7LZEmxW2sLXy6qV7mbaR/view?usp=share_link)
+- 📒 [Know about my experiences(Resume)](https://drive.google.com/file/d/10v-NKg8emajR7LZEmxW2sLXy6qV7mbaR/view?usp=share_link)
 
 - 🗂️ [Portfolio](https://vikash-vashistha.github.io/)
 
