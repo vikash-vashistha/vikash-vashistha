@@ -9,7 +9,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <h3>
-   <li>  👩‍💻  A passionate full-stack web developer from India Right now, I am working as an SDE-1 at BirdChime. </li> <br/>
+   <li>  👩‍💻  A passionate full-stack web developer from India Right now. </li> <br/>
    <li> 🧐   Observant and intuitive problem-solver, focussed on writing clean, elegant and efficient code </li> <br/>
    <li> ✨   I love to learn and explore new arenas. I am highly proficient in ( Ruby On Rails & MERN Stack ). I am eager to learn and ready to contribute to the development of an organization. I am also open to working as a freelancer.</li>
 </h3>
