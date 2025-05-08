@@ -30,7 +30,7 @@
 
 - 📒 [Know about my experiences(Resume)](https://drive.google.com/file/d/10v-NKg8emajR7LZEmxW2sLXy6qV7mbaR/view?usp=share_link)
 
-- 🗂️ [Portfolio](https://vikash-vashistha.github.io/)
+<!-- - 🗂️ [Portfolio](https://vikash-vashistha.github.io/) -->
 
 <!-- - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash-vashistha&theme=radical) -->
 
